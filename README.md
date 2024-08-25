@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My Medium writer account https://medium.com/@osman.gundogdu.58323 
+- ⚡ Fun fact: My Medium writer account https://medium.com/@osman.gundogdu.58323
+- My LinkedIn account: www.linkedin.com/in/osman-gündoğdu-338389260  
 
 <!---
 OsmanGundogdu/OsmanGundogdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
